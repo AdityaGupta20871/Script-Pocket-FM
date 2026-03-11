@@ -17,7 +17,7 @@ from bs4 import BeautifulSoup
 from groq import Groq
 
 # ─── CONFIG ──────────────────────────────────────────────────────
-GROQ_API_KEY = "APNA_GROQ_KEY_YAHAN"
+GROQ_API_KEY = "APIKEYHERE"
 
 # Amazon Paranormal Romance Kindle Bestsellers
 # Page 1 = rank 1-50 (sccl_1..50), Page 2 = rank 51-100 (sccl_1..50 again → offset +50)
